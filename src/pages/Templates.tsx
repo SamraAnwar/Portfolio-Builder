@@ -1,5 +1,11 @@
+import TemplatePreview from "../components/home/TemplatePreview";
+
 function Templates() {
-  return <h1>Templates Page</h1>;
+  return (
+    <main>
+      <TemplatePreview />
+    </main>
+  );
 }
 
 export default Templates;
