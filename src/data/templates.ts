@@ -12,7 +12,7 @@ export const templates = [
     description: "A bold portfolio layout for creative professionals.",
   },
   {
-    id: "motion-portfoli",
+    id: "motion-portfolio",
     name: "Motion Portfolio",
     category: "Video Editor",
     description: "A visual-first layout for reels and video projects.",
